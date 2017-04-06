@@ -1,0 +1,7 @@
+#! /bin/bash
+	clear
+	echo "$PATH" #just some attempted bs
+	echo "you are using the `uname -s` Kernal today $USER"
+
+
+	
